@@ -2,7 +2,7 @@
 A clean and calming mobile app design focused on Pilates workouts, designed to help users stay consistent, mindful, and active.
 This project showcases modern UI/UX principles using Figma, with a focus on simplicity, readability, and visual harmony.
 
-#Figma Link: https://www.figma.com/design/9LbyscapIF3ZNKR3HsYsNB/Internship?node-id=5-2&t=iTOZVjStVopHDls6-1
+#Figma Link: https://www.figma.com/design/9LbyscapIF3ZNKR3HsYsNB/Internship?node-id=5-2&t=CxBQPLaeoHayqM9j-1
 
 #Color Scheme:
  Used:
